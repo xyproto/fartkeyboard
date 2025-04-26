@@ -122,8 +122,7 @@ func sum(weights []float64) float64 {
 }
 
 func main() {
-	rand.Seed(time.Now().UnixNano())
-	fmt.Println("Fart keyboard activated. Press Ctrl+C to quit.")
+	fmt.Println("Fart Keyboard activated. Press Ctrl+C to quit.")
 
 	buffers, err := loadBuffers()
 	if err != nil {
