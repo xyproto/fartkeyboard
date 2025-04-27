@@ -122,7 +122,7 @@ func sum(weights []float64) float64 {
 }
 
 func main() {
-	fmt.Println("Fart Keyboard activated. Press Ctrl+C to quit.")
+	fmt.Println("Windy Keys activated. Press Ctrl+C to quit.")
 
 	buffers, err := loadBuffers()
 	if err != nil {
