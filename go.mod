@@ -1,4 +1,4 @@
-module github.com/xyproto/fartkeyboard
+module github.com/xyproto/windykeys
 
 go 1.24.2
 
